@@ -1,0 +1,16 @@
+drug_class	IE1	IE2	IE3	IE4	coasm
+aminoglycoside	17	0	27	48	61
+beta-lactam	50	6	70	56	109
+colistin/polymyxin	0	0	5	2	12
+disinfectant/qac	2	0	13	4	19
+fluoroquinolone/quinolone	8	0	23	14	40
+fosfomycin	2	0	2	0	4
+macrolide/lincosamide/streptogramin	27	9	50	53	75
+nitroimidazole	0	0	1	0	2
+nucleoside	0	0	3	2	5
+other	6	0	13	7	12
+oxazolidinone	4	0	0	5	7
+phenicol	10	0	19	19	37
+rifamycin	2	1	9	1	16
+sulfonamide/diaminopyrimidine	7	2	12	19	23
+tetracycline/glycylcycline	15	1	42	29	55
